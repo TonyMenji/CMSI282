@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2013.12.8)  9 APR 2015 09:07
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2013.12.8)  9 APR 2015 09:13
 entering extended mode
 **Homework*3.tex
 ("C:\Users\Tony\Documents\GitHub\CMSI282\homework3\Homework 3.tex"
@@ -235,34 +235,29 @@ Overfull \hbox (34.62775pt too wide) in paragraph at lines 15--18
 [1
 
 {C:/ProgramData/MiKTeX/2.8/pdftex/config/pdftex.map} <C:/Users/Tony/Documents/G
-itHub/CMSI282/homework3/Bozosort1.png>] [2 <C:/Users/Tony/Documents/GitHub/CMSI
-282/homework3/Bozosort2.png> <C:/Users/Tony/Documents/GitHub/CMSI282/homework3/
-BozosortTable.png>] <AutoKeyVigenere.png, id=19, 861.9703pt x 273.27094pt>
+itHub/CMSI282/homework3/Bozosort1.png>]
+<AutoKeyVigenere.png, id=14, 861.9703pt x 273.27094pt>
 File: AutoKeyVigenere.png Graphic file (type png)
 
-<use AutoKeyVigenere.png>
-Overfull \hbox (392.21281pt too wide) in paragraph at lines 23--24
- [] 
- []
-
-
-Overfull \hbox (26.4262pt too wide) in paragraph at lines 46--47
+<use AutoKeyVigenere.png> [2 <C:/Users/Tony/Documents/GitHub/CMSI282/homework3/
+Bozosort2.png> <C:/Users/Tony/Documents/GitHub/CMSI282/homework3/BozosortTable.
+png> <C:/Users/Tony/Documents/GitHub/CMSI282/homework3/AutoKeyVigenere.png>]
+Overfull \hbox (26.4262pt too wide) in paragraph at lines 45--46
 []\OT1/cmr/m/n/10 TWBTLLAEPODTUBTWBTLTDLDDVSNNHEETLSKDDSIFGIIMWLYDKDDSPHBPQKOFH
 MDLSKRS 
  []
 
 
-Overfull \hbox (23.30116pt too wide) in paragraph at lines 50--51
+Overfull \hbox (23.30116pt too wide) in paragraph at lines 49--50
 []\OT1/cmr/m/n/10 COMPUTERSCIENCEISNOMOREABOUTCOMPUTERSTHANASTRONOMYISABOUTTELE
 SCOPESS 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 57.
+(Font)              <7> on input line 56.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 57.
-[3 <C:/Users/Tony/Documents/GitHub/CMSI282/homework3/AutoKeyVigenere.png>]
-[4] [5] [6] ("C:\Users\Tony\Documents\GitHub\CMSI282\homework3\Homework 3.aux")
+(Font)              <5> on input line 56.
+[3] [4] [5] ("C:\Users\Tony\Documents\GitHub\CMSI282\homework3\Homework 3.aux")
  ) 
 Here is how much of TeX's memory you used:
  1699 strings out of 495285
@@ -283,9 +278,9 @@ les (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files
 6)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/M
 iKTeX 2.8/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiK
 TeX 2.8/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on "Homework 3.pdf" (6 pages, 199260 bytes).
+Output written on "Homework 3.pdf" (5 pages, 198935 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
+ 71 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
