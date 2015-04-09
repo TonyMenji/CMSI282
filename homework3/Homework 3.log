@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2013.12.8)  8 APR 2015 23:12
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2013.12.8)  9 APR 2015 09:07
 entering extended mode
-**Homework2.tex
-(C:\Users\Tony\Documents\GitHub\CMSI282\homework2\Homework2.tex
+**Homework*3.tex
+("C:\Users\Tony\Documents\GitHub\CMSI282\homework3\Homework 3.tex"
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
 rman, ngerman, german-x-2009-06-19, ngerman-x-2009-06-19, french, loaded.
@@ -141,22 +141,22 @@ File: pdftex.def 2010/02/14 v0.04n Graphics/color for pdfTeX
 ("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\tools\indentfirst.sty"
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
-(C:\Users\Tony\Documents\GitHub\CMSI282\homework2\setspace.sty
+(C:\Users\Tony\Documents\GitHub\CMSI282\homework3\setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-(C:\Users\Tony\Documents\GitHub\CMSI282\homework2\Homework2.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
+("C:\Users\Tony\Documents\GitHub\CMSI282\homework3\Homework 3.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -204,57 +204,88 @@ LaTeX Font Info:    ... okay on input line 13.
 \everyMPtoPDFconversion=\toks19
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 15.
+(Font)              <12> on input line 12.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 15.
+(Font)              <8> on input line 12.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 15.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 18.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 18.
- <Screenshot(169).png, id=1, 398.23781pt x 201.00093pt>
-File: Screenshot(169).png Graphic file (type png)
+(Font)              <6> on input line 12.
+ <Bozosort1.png, id=1, 502.87875pt x 502.87875pt>
+File: Bozosort1.png Graphic file (type png)
+ <use Bozosort1.png>
+<Bozosort2.png, id=3, 474.27188pt x 198.7425pt>
+File: Bozosort2.png Graphic file (type png)
+ <use Bozosort2.png>
+<BozosortTable.png, id=4, 504.38437pt x 163.3603pt>
+File: BozosortTable.png Graphic file (type png)
+ <use BozosortTable.png>
+Overfull \hbox (33.12213pt too wide) in paragraph at lines 15--18
+ [] 
+ []
 
-<use Screenshot(169).png> [1
 
-{C:/ProgramData/MiKTeX/2.8/pdftex/config/pdftex.map}] [2 <C:/Users/Tony/Documen
-ts/GitHub/CMSI282/homework2/Screenshot(169).png>]
-[3]
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
- [4] (C:\Users\Tony\Documents\GitHub\CMSI282\homework2\Homework2.aux) ) 
+Overfull \hbox (4.51534pt too wide) in paragraph at lines 15--18
+ [] 
+ []
+
+
+Overfull \hbox (34.62775pt too wide) in paragraph at lines 15--18
+ [] 
+ []
+
+[1
+
+{C:/ProgramData/MiKTeX/2.8/pdftex/config/pdftex.map} <C:/Users/Tony/Documents/G
+itHub/CMSI282/homework3/Bozosort1.png>] [2 <C:/Users/Tony/Documents/GitHub/CMSI
+282/homework3/Bozosort2.png> <C:/Users/Tony/Documents/GitHub/CMSI282/homework3/
+BozosortTable.png>] <AutoKeyVigenere.png, id=19, 861.9703pt x 273.27094pt>
+File: AutoKeyVigenere.png Graphic file (type png)
+
+<use AutoKeyVigenere.png>
+Overfull \hbox (392.21281pt too wide) in paragraph at lines 23--24
+ [] 
+ []
+
+
+Overfull \hbox (26.4262pt too wide) in paragraph at lines 46--47
+[]\OT1/cmr/m/n/10 TWBTLLAEPODTUBTWBTLTDLDDVSNNHEETLSKDDSIFGIIMWLYDKDDSPHBPQKOFH
+MDLSKRS 
+ []
+
+
+Overfull \hbox (23.30116pt too wide) in paragraph at lines 50--51
+[]\OT1/cmr/m/n/10 COMPUTERSCIENCEISNOMOREABOUTCOMPUTERSTHANASTRONOMYISABOUTTELE
+SCOPESS 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 57.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 57.
+[3 <C:/Users/Tony/Documents/GitHub/CMSI282/homework3/AutoKeyVigenere.png>]
+[4] [5] [6] ("C:\Users\Tony\Documents\GitHub\CMSI282\homework3\Homework 3.aux")
+ ) 
 Here is how much of TeX's memory you used:
- 1684 strings out of 495285
- 23234 string characters out of 3179881
- 85448 words of memory out of 3000000
- 4906 multiletter control sequences out of 15000+200000
+ 1699 strings out of 495285
+ 23516 string characters out of 3179881
+ 84434 words of memory out of 3000000
+ 4918 multiletter control sequences out of 15000+200000
  7587 words of font info for 27 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 25i,6n,19p,469b,177s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Prog
-ram Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Progra
-m Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program 
-Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Program Fil
-es (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files 
-(x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x8
-6)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/
-MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiK
-TeX 2.8/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files (x86)/MiKTeX 
-2.8/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTeX 2.8/
-fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.8/fo
-nts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts
-/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on Homework2.pdf (4 pages, 154314 bytes).
+ 25i,6n,19p,436b,180s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+<C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C
+:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program
+ Files (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files
+ (x86)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files (x8
+6)/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/M
+iKTeX 2.8/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiK
+TeX 2.8/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on "Homework 3.pdf" (6 pages, 199260 bytes).
 PDF statistics:
- 66 PDF objects out of 1000 (max. 8388607)
+ 74 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
